@@ -1,0 +1,19 @@
+name: ODINN_exploration
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.12
+  - anaconda::ipython
+  - numpy
+  - conda-forge::matplotlib
+  - conda-forge::rasterio
+  - anaconda::jdcal
+  - geopandas
+  - conda-forge::tqdm
+  - conda-forge::netcdf4
+  - conda-forge::gdal
+  - conda-forge::rioxarray
+  - libgdal-hdf5
+prefix: /Users/sapienza/.conda/envs/ODINN_exploration
