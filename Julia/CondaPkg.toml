@@ -1,0 +1,7 @@
+[deps]
+cartopy = ""
+pandas = ""
+matplotlib = ""
+xarray = ""
+seaborn = ""
+numpy = ""
